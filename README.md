@@ -1,6 +1,9 @@
 ### Hi 👋, I'M Osama Asif
 Open Source Contributor from Pakistan 🇵🇰
 
+- 🔭 I’m currently working on the Flutter Cart Package.
+- 💬 Ask me about Flutter and Dart
+- 🌱 I’m currently learning MERN
 
 ### Tech Stack
 
