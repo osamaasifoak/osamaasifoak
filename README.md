@@ -15,7 +15,7 @@ Open Source Contributor from Pakistan 🇵🇰
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 ### Github Stats
-![Osama's github Stats](https://github-readme-stats.vercel.app/api?username=osamaasifoak)
+![Osama's github Stats](https://github-readme-stats.vercel.app/api?username=osamaasifoak&theme=material-palenight)
 
 
 
