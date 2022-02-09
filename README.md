@@ -17,7 +17,7 @@ Open Source Contributor from Pakistan 🇵🇰
 ### Github Stats
 ![Osama's github Stats](https://github-readme-stats.vercel.app/api?username=osamaasifoak&theme=material-palenight)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaasifoak&theme=dark)
 
 
 <!--
