@@ -13,7 +13,7 @@
 
 ### My Digital Garden 🌱
 - 🔭 I’m currently working on the [Flutter Cart Package](https://pub.dev/packages/flutter_cart)
-- 🔭 I write articles on Flutter, most of which you will find on Medium [osamaasif.medium.com](https://osamaasif.medium.com)
+- 🔭 I write articles on Flutter, most of which you will find on Medium [Osama Asif](https://osamaasif.medium.com)
 - 💬 Ask me about Flutter, MongoDB, React and Node
 - 🌱 I’m currently doing certification in MongoDB
 
@@ -23,7 +23,7 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongo/mongo.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png"></code>
 
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
