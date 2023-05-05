@@ -3,9 +3,9 @@
  **Languages : English (Fluent)**    
 
 ### Professional Summary      
-- 4+ years of strong experience in Flutter (iOS + Android + Web) hybrid mobile application development
+- 5+ years of strong experience in Flutter (iOS + Android + Web) hybrid mobile application development
 - Experienced in React-Native (Js + Ts) mobile development.
-- 1+ years of experience in building application using the MERN Stack using Redux, Common.JS, Babel+ES6, EXT JS and Web - Pack for Single Page Application development. 
+- 2+ years of experience in building application using the MERN Stack using Redux, Common.JS, Babel+ES6, EXT JS and Web - Pack for Single Page Application development. 
 - Strong Knowledge of state management (Redux, Provider, and Bloc).
 - Strong grasp over core software development practices and concepts
 - Flutter enthusiast with the privilege of doing flutter development since the advent of the framework. I've published multiple packages and regularly contribute to flutter stack    
