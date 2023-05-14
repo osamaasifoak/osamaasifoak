@@ -1,5 +1,6 @@
 ## Osama Asif
- **osama.asif20@gmail.com +923092783699**    
+ **osama.asif20@gmail.com**
+ **+923092783699**  
  **Languages : English (Fluent)**    
 
 ### Professional Summary      
