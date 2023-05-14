@@ -1,7 +1,7 @@
 ## Osama Asif
- **osama.asif20@gmail.com**
- **+923092783699**  
- **Languages : English (Fluent)**    
+ **osama.asif20@gmail.com**   
+ **+923092783699**    
+ **Languages : English (Fluent)**     
 
 ### Professional Summary      
 - 5+ years of strong experience in Flutter (iOS + Android + Web) hybrid mobile application development
